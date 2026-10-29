@@ -1,0 +1,17 @@
+{
+  "name": "Шаурма 24/7",
+  "short_name": "Шаурма 24/7",
+  "description": "Ночной ларёк шавермы в Петербурге — демо для тестирования",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#140F20",
+  "theme_color": "#140F20",
+  "lang": "ru",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
